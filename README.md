@@ -10,8 +10,8 @@
 [![version](https://img.shields.io/badge/Version-v1.2a-purple?style=for-the-badge)](https://github.com/vrw93/Inventory-App/releases)
 </div>
 
-> [!NOTE]
-> The Development Of This App Is Slow Down Recently Due To Several Things
+> [!WARNING]
+> The Development Of This App Is Slow Down Recently Due To Personal Activity
 
 ## ✅ Feature
 - Borrow Item Window
