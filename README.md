@@ -35,12 +35,12 @@
 </p>
 
 ## 🗺 Road Map
-- [ ] ~~Add Admin Window~~ [done]
-- [ ] ~~Add Key Code or List Base System~~ [done]
+- [x] ~~Add Admin Window~~ [done]
+- [x] ~~Add Key Code or List Base System~~ [done]
 - [ ] QOL [Partial]
-- [ ] ~~Theme Switcher~~ [done]
-- [ ] ~~Admin Dashboard Overview~~ [done]
-- [ ] ~~CSV Export~~ [done]
+- [x] ~~Theme Switcher~~ [done]
+- [x] ~~Admin Dashboard Overview~~ [done]
+- [x] ~~CSV Export~~ [done]
 
 > [!WARNING]
 > There Was List Of Feature I Want To Add But I Dont Promise I Will Implement it
